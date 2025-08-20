@@ -68,8 +68,9 @@
 
 **Why:** Shows relationships, correlations, or outliers.
 
-8. Pareto Chart
+**8. Pareto Chart**
 
-Use: Combination of bars + line showing values in descending order with a cumulative percentage line.
 
-Why: Helps apply the 80/20 rule (identify the few categories causing the biggest impact).
+**Use:** Combination of bars + line showing values in descending order with a cumulative percentage line.
+
+**Why:** Helps apply the 80/20 rule (identify the few categories causing the biggest impact).
